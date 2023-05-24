@@ -1,0 +1,44 @@
+{
+    "language": "Language",
+    "english": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "A programmer greeting"
+    },
+    "hello": "Hello {username}",
+    "@hello": {
+      "description": "A welcome message",
+      "placeholders": {
+         "username": {
+           "type": "String"
+         }
+      }
+    },
+    "reset": "Reset",
+    "solve": "Solve",
+    "newGame": "New Game",
+    "help": "Help",
+    "level": "Level",
+    "difficulty": "Difficulty",
+    "dark": "Dark",
+    "light": "Light",
+    "easy": "Easy",
+    "medium": "Medium",
+    "expert": "Expert",
+    "noAchiev": "No Achievements",
+    "besttime": "Best Time",
+    "answeris": "Answer is",
+    "splash": "Growth up your brain",
+    "howtosolve": "How to solve a sudoku puzzle",
+    "howtosolvediscr": "Each sudoku puzzle consists of a 9-by-9 grid of numbers that has been partly filled in. The goal is to fill in all the remaining empty squares so that each row, each column, and each \"box\" contains all of the numbers from 1 to 9."
+    ,"row": "Row",
+    "column": "Column",
+    "box": "Box",
+    "rowDis": "Each row must contain the numbers 1,2,3,4,5,6,7,8,9",
+    "columnDis": "Each column must contain the numbers 1,2,3,4,5,6,7,8,9",
+    "boxDis": "Each sudoku consists of 9 \"boxes.\" As with each row and column, each box must contain the numbers 1,2,3,4,5,6,7,8,9"
+
+}

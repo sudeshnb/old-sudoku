@@ -1,0 +1,31 @@
+{
+    "language": "Idioma",
+    "helloWorld": "Hola Mundo!",
+    "hello": "Hola {username}",
+    "english": "Español",
+    "reset": "Reiniciar",
+    "solve": "Resolver",
+    "newGame": "Nuevo juego",
+    "help": "Ayuda",
+    "level": "Nivel",
+    "difficulty": "Dificultad",
+    "dark": "Oscura",
+    "light": "Ligera",
+    "easy": "Fácil",
+    "medium": "Medio",
+    "expert": "Experta",
+    "noAchiev": "Sin logros",
+    "besttime": "Mejor época",
+    "answeris": "respuestas",
+    "splash": "crecimiento de tu cerebro",
+
+    "howtosolve": "Cómo resolver un sudoku",
+    "howtosolvediscr": "Cada sudoku consta de una cuadrícula de números de 9 por 9 que se ha completado parcialmente. El objetivo es completar todos los cuadrados vacíos restantes para que cada fila, cada columna y cada \"cuadro \" contenga todos los los números del 1 al 9."
+    ,"row": "Hilera",
+    "column": "Columna",
+    "box": "Caja",
+    "rowDis": "Cada fila debe contener los números 1,2,3,4,5,6,7,8,9",
+    "columnDis": "Cada columna debe contener los números 1,2,3,4,5,6,7,8,9",
+    "boxDis": "Cada sudoku consta de 9 \"casillas \". Como con cada fila y columna, cada casilla debe contener los números 1,2,3,4,5,6,7,8,9"
+
+}

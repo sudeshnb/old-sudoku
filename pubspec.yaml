@@ -1,0 +1,62 @@
+name: sudoku02
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^5.0.0
+
+  shared_preferences: ^2.0.6
+
+  equatable: ^2.0.3
+
+  # sqflite database
+  sqflite: ^2.0.0+3
+
+  # google_mobile_ads: ^0.13.3
+
+  flutter_svg: ^0.22.0
+
+  # time convert
+  intl: ^0.17.0
+
+  cupertino_icons: ^1.0.2
+
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+  #   - images/a_dot_ham.jpeg
+
+  fonts:
+    - family: gilroy
+      fonts:
+        - asset: assets/fonts/Gilroy-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Gilroy-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Gilroy-Medium.ttf
+          weight: 500
+  #

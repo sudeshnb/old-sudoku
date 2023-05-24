@@ -1,0 +1,32 @@
+{
+    "language": "Taal",
+    "english": "Deutsch",
+    "helloWorld": "Hallo Welt!",
+    "hello": "Hallo {username}",
+     "reset": "Resetten",
+    "solve": "Oplossen",
+    "newGame": "Nieuw spel",
+    "help": "Hulp",
+    "level": "Niveau",
+    "difficulty": "moeilijkheidsgraad",
+    "dark": "Donker",
+    "light": "Licht",
+    "easy": "Eenvoudig",
+    "medium": "Medium",
+    "expert": "Deskundige",
+    "noAchiev": "Geen prestaties",
+    "besttime": "Beste tijd",
+    "answeris": "Antwoord",
+    "splash": "oma aju kasvatada",
+
+    "howtosolve": "So lösen Sie ein Sudoku-Rätsel",
+    "howtosolvediscr": "Jedes Sudoku-Rätsel besteht aus einem 9 x 9 Zahlenraster, das teilweise ausgefüllt wurde. Das Ziel ist es, alle verbleibenden leeren Quadrate so auszufüllen, dass jede Zeile, jede Spalte und jede \"Box\" alle enthält die Zahlen von 1 bis 9."
+    ,"row": "Die Zeile",
+    "column": "Spalte",
+    "box": "Kasten",
+    "rowDis": "Jede Zeile muss die Zahlen 1,2,3,4,5,6,7,8,9 enthalten",
+    "columnDis": "Jede Spalte muss die Zahlen 1,2,3,4,5,6,7,8,9 enthalten",
+    "boxDis": "Jedes Sudoku besteht aus 9 \"Boxen\". Wie jede Zeile und Spalte muss jede Box die Zahlen 1,2,3,4,5,6,7,8,9 . enthalten"
+
+
+}
